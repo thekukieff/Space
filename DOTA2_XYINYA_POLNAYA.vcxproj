@@ -128,10 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="scene.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="controller.hpp" />
     <ClInclude Include="Coordinat.hpp" />
+    <ClInclude Include="Game.hpp" />
     <ClInclude Include="GameOBJ.hpp" />
     <ClInclude Include="scene.hpp" />
     <ClInclude Include="Status.hpp" />
